@@ -1,0 +1,18 @@
+div{
+    width: 1000px;
+    height: 1000px;
+}
+
+.div1{
+    background-image: url(https://guidetoiceland.imgix.net/360131/x/0/10-pictures-of-iceland-you-won-t-believe-are-real-10?ixlib=php-3.3.0&w=883);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.div2{
+    background-image: url(https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832__480.jpg);
+   background-size: contain;
+    background-repeat: no-repeat;
+}

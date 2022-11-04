@@ -1,0 +1,44 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+
+div{
+    width:100px;
+    height:300px;
+    border:2px solid black;
+    padding:10px 0 0 10px;
+}
+
+.div1{
+    position:absolute;
+    top:50px;
+    left:5%;
+}
+
+.div2{
+    position:absolute;
+    top:50px;
+    left:15%;
+}
+
+.div3{
+    position:absolute;
+    top:50px;
+    left:25%;
+}
+
+.div4{
+    position:absolute;
+    top:50px;
+    left:35%;
+}
+
+a{
+    color:rgb(15, 200, 200);
+    position: absolute;
+    top:500px;
+    left:10px;
+}
